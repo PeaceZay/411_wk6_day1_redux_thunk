@@ -9,7 +9,7 @@ export default {
            "name":"chevrolet chevelle malibu",
            "mpg":18,
            "cylinders":8,
-           "horsepower":130
+           "horsepower":130,
         },
         {
            "id": 2,
@@ -144,6 +144,7 @@ export default {
            "cylinders":8,
            "horsepower":225
         }
-    ]
+    ],
+    make: []
   };
   
